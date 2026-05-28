@@ -1,13 +1,21 @@
 <div align="center">
 
-<h1>Ritik Pandey</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,45:7C3AED,100:111827&text=Ritik%20Pandey&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Full-stack%20%2B%20Solidity%20Engineer%20%7C%20Confidential%20DeFi%20%7C%20AI%20Infrastructure&descAlignY=58&descSize=16" alt="Ritik Pandey" />
 
-<p><strong>Full-stack + Solidity engineer focused on confidential DeFi and AI.</strong></p>
+<a href="https://x.com/ritik_pandey999">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.linkedin.com/in/ritik-pandey-983a8b1b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Ritik200238?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
-<p>
-  <a href="https://x.com/ritik_pandey999"><img src="https://img.shields.io/badge/-x-000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ritik-pandey-983a8b1b9/"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+<br />
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+privacy-first+financial+systems;Shipping+Solidity+contracts+and+typed+web+apps;Exploring+FHE%2C+zk%2C+agents%2C+and+AI+infrastructure" alt="Typing animation" />
 
 </div>
 
@@ -15,65 +23,96 @@
 
 ```ts
 const ritik = {
-  role:    'Full-stack + Solidity Engineer',
-  focus:   ['Confidential DeFi', 'FHE', 'zk', 'AI Infrastructure'],
-  stack:   ['Solidity', 'TypeScript', 'Next.js', 'Python'],
-  status:  'building in public',
+  role: "Full-stack + Solidity Engineer",
+  edge: ["confidential DeFi", "privacy primitives", "AI infrastructure"],
+  stack: ["Solidity", "TypeScript", "Next.js", "Python", "Postgres"],
+  currently: "building production-grade encrypted finance primitives",
+  openTo: ["privacy-tech", "web3 infrastructure", "AI agent systems"],
 } as const;
 ```
 
-### Focus
+## What I Build
 
-- **Confidential DeFi** — encrypted trading, sealed-bid auctions, private payment rails
-- **Privacy primitives** — FHE, zk circuits, confidential execution environments
-- **AI infrastructure** — agent tooling, retrieval systems, model orchestration
-- **Full-stack engineering** — smart contracts, typed APIs, production UIs
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Confidential DeFi</h3>
+      <p>Private swaps, sealed-bid auctions, encrypted order flow, confidential payments, and on-chain financial systems where sensitive data should not be public by default.</p>
+    </td>
+    <td width="50%">
+      <h3>Privacy Infrastructure</h3>
+      <p>FHE, zk workflows, confidential execution, smart-contract integrations, and developer tooling that makes privacy primitives usable in real products.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI Systems</h3>
+      <p>Agent workflows, retrieval systems, model orchestration, automation pipelines, and practical AI features wired into production apps.</p>
+    </td>
+    <td width="50%">
+      <h3>Full-stack Products</h3>
+      <p>Typed APIs, responsive interfaces, dashboards, contract-connected apps, database-backed workflows, and end-to-end product delivery.</p>
+    </td>
+  </tr>
+</table>
 
-### Currently
+## Tech Stack
 
-→ shipping production-grade infrastructure for confidential financial primitives.
+<div align="center">
 
-### Stack
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,postgres,docker,git,github,vercel&perline=6" alt="Core stack" />
 
-**Contracts** &nbsp;
+<br />
+<br />
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-2D2D2D?style=flat-square)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
-![Viem](https://img.shields.io/badge/Viem-FFCC00?style=flat-square)
-
-**Privacy** &nbsp;
-![Fhenix](https://img.shields.io/badge/Fhenix-6E40C9?style=flat-square)
-![Aleo](https://img.shields.io/badge/Aleo-00C7B7?style=flat-square)
-![zk](https://img.shields.io/badge/zk--SNARKs-8A2BE2?style=flat-square)
-
-**App** &nbsp;
+![Viem](https://img.shields.io/badge/Viem-111111?style=flat-square)
+![FHE](https://img.shields.io/badge/FHE-7C3AED?style=flat-square)
+![zk](https://img.shields.io/badge/zk-0EA5E9?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Infra** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**AI** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
----
+</div>
+
+## Current Direction
+
+- Shipping confidential financial primitives with stronger privacy guarantees.
+- Building contract-connected web apps with clean TypeScript boundaries.
+- Experimenting with FHE, zk, and agent workflows that can become real infrastructure.
+- Keeping the work practical: readable code, testable contracts, and product-grade UX.
+
+## GitHub Signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik200238&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik200238&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritik200238&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Ritik's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik200238&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ritik200238&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ritik200238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to collaborations on privacy-tech, confidential DeFi, and AI infrastructure.</sub>
+
+<strong>Open to collaborations on privacy-tech, confidential DeFi, web3 infrastructure, and AI systems.</strong>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Ritik200238&style=for-the-badge&color=0EA5E9" alt="Profile views" />
+
 </div>
