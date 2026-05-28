@@ -87,25 +87,6 @@ const ritik = {
 - Experimenting with FHE, zk, and agent workflows that can become real infrastructure.
 - Keeping the work practical: readable code, testable contracts, and product-grade UX.
 
-## GitHub Signal
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritik200238&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Ritik's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik200238&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ritik200238&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ritik200238&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-
-</div>
-
----
-
 <div align="center">
 
 <strong>Open to collaborations on privacy-tech, confidential DeFi, web3 infrastructure, and AI systems.</strong>
